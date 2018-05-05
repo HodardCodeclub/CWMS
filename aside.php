@@ -32,7 +32,6 @@
           <span>Branches</span>
 
         </a>
-
       </li>
       <li>
         <a href="./pages/tables/projects.php">
