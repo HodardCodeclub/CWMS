@@ -16,7 +16,7 @@ This file is to instruct you installing and successfully running cwms.
 
 ### What is this repository for? ###
 
-* cwms is a web application. It web based.
+* cwms is a web application.
 * Version 1.0.0 beta
 
 ### INSTALLATION PREREQUISITES ###
@@ -38,7 +38,7 @@ After cloning this project to your desired directory[Windows: C:~/xampp/htdocs ,
 After finishing the steps above, you will need to run the app on your local machine.  
 -> Go into your browser and type _localhost/cwms_.  
 -> If all was done successfully, you will find a login page.   
--> Use admin@cwms.com as username and better@cwms as password.  OR
+-> Use admin@cwms.com as username and better@cwms as password. 
 -> Use better@cwms.com as username and better@solange as password.  
 
   
