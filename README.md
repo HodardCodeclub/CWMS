@@ -32,7 +32,9 @@ After cloning this project to your desired directory[Windows: C:~/xampp/htdocs ,
 -> In DB management app (eg:phpmyadmin, workbench,...), create a database.   
 -> Import the database(cwms.sql) from cwms root folder, to your newly created database.  
 -> Go into ~/cwms/cwms/pages/tables and open file 'dbconfig.php' change your local connection values respective to your settings.
--> Change to database connection respective to your mysql configurations on line 3.  
+-> Change to database connection respective to your mysql configurations on line 3 by removing the password or leave it as empty space.
+-> Go into ~/cwms/ and open file 'dbconnect.php' change your local connection values respective to your settings.
+-> Change to database connection respective to your mysql configurations on line 3 by removing the password or leave it as empty space. 
 
 * Run the application  
 After finishing the steps above, you will need to run the app on your local machine.  
